@@ -1,0 +1,15 @@
+.ItemImg{
+    width: 100px;
+    display: flex;
+}
+
+.nombreArticulo{
+    font-size: 20px;
+    margin: 20px;
+    display: flex;
+}
+.Detalle{
+    text-decoration: none;
+    color: black;
+
+}
