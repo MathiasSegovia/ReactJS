@@ -1,6 +1,8 @@
 .ItemImg{
-    width: 100px;
+    width: 200px;
     display: flex;
+    object-fit: contain;
+    margin-right: 10px;
 }
 
 .nombreArticulo{
@@ -11,5 +13,7 @@
 .Detalle{
     text-decoration: none;
     color: black;
+    text-align: center;
 
 }
+
